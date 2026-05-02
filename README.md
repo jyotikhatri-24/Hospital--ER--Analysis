@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 Hospital Emergency Room Dashboard Dashboard Link: https://drive.google.com/file/d/1FSFLLNrfonkT90yJbhzqDEa7ZKyJ7pTH/view?usp=sharing
-> **Power BI Dashboard** | Emergency Room Operations Analysis — April 2023 to October 2024
+> **Power BI Dashboard** | Emergency Room Operations Analysis 
 
 ---
 
